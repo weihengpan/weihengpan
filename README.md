@@ -20,6 +20,6 @@ I don't post content on third-party websites.
 
 🏓️ I play table tennis at an intermediate level.
 
-🎵 I play the harmonica. I like city pop and jazz.
+🎵 I play the harmonica. City pop and jazz are my favorites.
 
 🎮 I'm a Nintendo fan and a RTS player.
