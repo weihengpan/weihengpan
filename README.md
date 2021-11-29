@@ -22,4 +22,4 @@ I don't post content on third-party websites.
 
 🎵 I play the harmonica. City pop and jazz are my favorites.
 
-🎮 I'm a Nintendo fan and a RTS player.
+🎮 I'm a Nintendo fan and RTS player.
