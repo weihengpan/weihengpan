@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**weihengpan/weihengpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie iOS developer and the author of [Ortho – Perspective Camera](https://apps.apple.com/us/app/ortho-perspective-camera/id1419668775), a camera app that helps you compose photos with perfect perspectives.
 
-Here are some ideas to get you started:
+I'm also a WWDC 2019 Scholarship winner. Had a lovely trip to San Jose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repos
+
+🔥 [Prometheus](https://github.com/weihengpan/Prometheus): Send files between iOS devices via a sequence of QR codes.
+
+📳 [Motif](https://github.com/weihengpan/Motif): Easily record, view, and export motion data on iOS.
+
+## Links
+
+📖 I own a [personal blog](https://blog.weiheng.me) in Chinese where I keep my photos and write about travels, maths, and emotional moments. The update frequency is hardly predictable, though.
+
+I don't post content on third-party websites.
+
+## Trivia
+
+🏓️ I play table tennis at an intermediate level.
+
+🎵 I play the harmonica. I like city pop and jazz.
+
+🎮 I'm a Nintendo fan and a RTS player.
