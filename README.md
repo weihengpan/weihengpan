@@ -10,12 +10,6 @@ I'm also a WWDC 2019 Scholarship winner. Had a lovely trip to San Jose.
 
 📳 [Motif](https://github.com/weihengpan/Motif): Easily record, view, and export motion data on iOS.
 
-## Links
-
-📖 I own a [personal blog](https://blog.weiheng.me) in Chinese where I keep my photos and write about travels, maths, and emotional moments. The update frequency is hardly predictable, though.
-
-I don't post content on third-party websites.
-
 ## Trivia
 
 🏓️ I play table tennis at an intermediate level.
