@@ -6,7 +6,7 @@ I'm also a WWDC 2019 Scholarship winner. Had a lovely trip to San Jose.
 
 ## Featured Repos
 
-🔥 [Prometheus](https://github.com/weihengpan/Prometheus): Send files between iOS devices via a sequence of QR codes.
+🔥 [Prometheus](https://github.com/weihengpan/Prometheus): Send files between iOS devices via a sequence of QR codes. ([Demo](https://www.youtube.com/watch?v=VGoai36YrM8))
 
 📳 [Motif](https://github.com/weihengpan/Motif): Easily record, view, and export motion data on iOS.
 
@@ -17,3 +17,5 @@ I'm also a WWDC 2019 Scholarship winner. Had a lovely trip to San Jose.
 🎵 I play the harmonica. City pop and jazz are my favorites.
 
 🎮 I'm a Nintendo fan and RTS player.
+
+🖖 Fly safe! o7
